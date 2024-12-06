@@ -18,4 +18,4 @@ I wanted a simple yet functional calculator that I could use directly in the ter
 - Error handling for invalid inputs and division by zero.
 - Easily extendable if I decide to add more features in the future.
 
-Just run it in Python, follow the prompts, and you’re good to go!
+Just run it in Python, follow the prompts, and you’re good to go.
